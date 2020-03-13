@@ -5,19 +5,37 @@
 *Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
-(Insert the name of the project you chose to replicate.)
+Banana Keyboard
 
 ## Related projects ##
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
-(Insert name of project)
+How to Make Arduino Piano | Arduino based Piano | Electronic Projects
 
-(Insert URL to project)
+https://www.youtube.com/watch?v=eKWk9RIGVxg
 
 ![Image](missingimage.png)
 
-This project is related to mine because (insert reasons here).
+This project is related to mine because it uses the same piano concept and a similar coding concept. This example is interesting as they were able to create a entire mini piano with alot of the diffrent keys and notes. What is also interesting is how they were able to apply the project and refine it to look and function like an piano. This might be an element to add to the original banana keyboard, instead of using fruit. 
+
+### Related project 2 ###
+Adafruit Capacitive Touch HAT for Raspberry Pi - Mini Kit - MPR121
+
+https://www.youtube.com/watch?v=Wk76UPRAVxI
+
+![Image](missingimage.png)
+
+This project is related to mine because it uses the same piano concept. What is diffrent and interesting about this example is how creative she is with using random and diffrent objects. She also expanded on the number of conductors there were, but how could I apply this with my project only using a micro bit? What elements could i use to make the project more interesting and original?
+
+### Related project 3 ###
+Adafruit Capacitive Touch HAT for Raspberry Pi - Mini Kit - MPR121
+
+https://www.youtube.com/watch?v=Wk76UPRAVxI
+
+![Image](missingimage.png)
+
+This project is related to mine because it uses the same piano concept. What is diffrent and interesting about this example is how creative she is with using random and diffrent objects. She also expanded on the number of conductors there were, but how could I apply this with my project only using a micro bit? What elements could i use to make the project more interesting and original?
 
 ## Reading reflections ##
 *Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
