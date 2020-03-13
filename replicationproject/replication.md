@@ -82,13 +82,13 @@ This project is related to mine because it incorperates a peizo buzzer when inte
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.* Prior to reading this document, I was unaware and challenged that all the icons and pieces of interaction in a smart device or any tech device are grouped under microinteractions. I never thought that they were categorised and recognised as a type of element in technology.  
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.* From this reading I learnt all about 'microinteractions' what they are and how they function with in a product. I learn that microinteractions are a function that only has one purpose and only does one thing. I learnt that a whole product can be made up of them and most the time they are just a small function alongside another element in the product.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.* From this reading I would be more interested in knowing how I can apply this to future designing and even to these projects.   
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.* This ready has given insight to help with my projects, by making me aware of microinteractions and how much of a infulence they have on the design. This reading makes me aware of how I can make each step of the interation smooth and allow users to get the most out of the design.  
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
