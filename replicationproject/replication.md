@@ -71,13 +71,14 @@ This project is related to mine because it incorperates a peizo buzzer when inte
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.* Prior to this reading I never considered the importants of the experince its self, wether its negative or positive. I always thought and focused on the overal product and the asethetics as I am a graphic design major. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.* From this chapter I learnt about the term 'Affordance' and what that means within designing. Prior to this reading I was never aware of this term and how it applied to this course. I now know that it is important to consider the relationships between the properties of an object and the capabilities of how that object can be put in use. This has made me aware that when designing i need to consider how people will engage with my project, will if be understood? Will people naturally know what to do? Will it be invisable or obvious? What are the signs and signifiers? these are now all questions I will consider when designing my product.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.* From reading this chapter I would be interested in learning more about key signifiers and key mapping elements when producing projects in this type of design.
+
+*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.* This reading really relates to my project when considering how people will interact and how they will understand my project. This reading has helped me to consider many new elements to better my design and make it as positivly interactive as possible. 
 
 ### Reading: Chapter 1 of Dan Saffer, Microinteractions: Designing with Details, Chapter 1 ###
 
@@ -91,13 +92,13 @@ This project is related to mine because it incorperates a peizo buzzer when inte
 
 ### Reading: Scott Sullivan, Prototyping Interactive Objects ###
 
-*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.*
+*What I thought before: Describe something that you thought or believed before you read the source that was challenged by the reading.* Before reading this chapter I did not have the perspective that this type of design involves synthesiszing, problem solving and simplifying. This chapter made me very aware of that process and its importance in making good designs. 
 
-*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.*
+*What I learned: Describe what you now know or believe as a result of the reading. Don't just describe the reading: write about what changed in YOUR knowledge.* From reading about the case study of Capybara, I learnt that projects like this are used with the purpose of providing infomation for things like store layout, product placment aswell as monitoring foot traffic. I was never aware or thought that extensive teach projects like this would/ could be used for things like setting up a effective store layout. This reading helped me gain knowledge of how this sort of project can be resourceful in many diffrent situations no matter how small or large. This reading broadened my knowledge of how this sort of technology can be used.
 
-*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.*
+*What I would like to know more about: Describe or write a question about something that you would be interested in knowing more about.* I would be interested in knowing more about how these sort of projects can apply to more and diffrent types of real world scenarios.
 
-*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.*
+*How this relates to the project I am working on: Describe the connection between the ideas in the reading and one of your current projects or how ideas in the reading could be used to improve your project.* This reading allowed me to really broaden my view on coming up with projects. This reading was also interesting in seeing how practical and benifical this project was, this makes me wonder if I should focus on making my projects more practical for day to day life. 
 
 
 ## Interaction flowchart ##
