@@ -13,7 +13,7 @@ Dimming an Led using a Potentiometer
 #### Photo of completed project ####
 *In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
 
-![Image] experiment 1.jpg
+ (experiment 1.jpg) 
 
 This task focuses on the amount of light let in, or the dimming of a light using a potentiometer. The potentiometer is rotated clockwise to dim and anti clockwise to brighten. This is possible with the coding, setting the 'light state' variable to 1 when turned on. The light state is on a forever loop and when the knob is rotated, it sends the infomation to the output, which determines the brightness of the light. 
 
