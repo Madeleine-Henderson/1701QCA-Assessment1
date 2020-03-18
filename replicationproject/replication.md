@@ -182,32 +182,25 @@ From here I then assembled the project. I firstly measured and cut pieces of car
 
 Lastly I made some changes. From coming up with this concept, I decided to change the images on the micro bit. When the carrot is touched a smile will appear and when the brocoli and touch a sad face will appear. As wll as these changes, I also change the varible nuber that increases/ decreases the sound to 25 and -25.
 
-
+![Image](12.png)
 ## Project outcome ##
 
-
-
-
-
-*Complete the following information.*
-
 ### Project title ###
+Banana Keyboard / happy/sad Bunny
 
 ### Project description ###
 
-*In a few sentences, describe what the project is and does, who it is for, and a typical use case.*
+This project was transformed into a interactive kids toy. In this project if you touch/hold the heart and then press either a carrot or a broccoli, the micro bit in front of the rabbit will light up with a reaction and play a tune. If the carrot is touched it will play a more hight pitched/ happy tune and display a smily face. If the broccoli and heart are touched, a low/ sad tune and a sad face will appear. If both the carrot and the broccoli and touched together with the heart, a longer tune will play and the micro bit screen with flash between the happy and sad face. 
 
 ### Showcase image ###
 
-*Try to capture the image as if it were in a portfolio, sales material, or project proposal. The project isn't likely to be something that finished, but practice making images that capture the project in that style.*
 
-![Image](missingimage.png)
+![Image](f1.JPG)
 
 ### Additional view ###
 
-*Provide some other image that gives a viewer a different perspective on the project such as more about how it functions, the project in use, or something else.*
 
-![Image](missingimage.png)
+![Image](f2.JPG)
 
 ### Reflection ###
 
