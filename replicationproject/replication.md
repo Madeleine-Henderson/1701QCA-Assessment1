@@ -168,6 +168,11 @@ Next I wanted to add another element to make the project more engaging and a bit
 
 ![Image](x10.png)
 Image of led images added to the code.
+
+
+From here I then assembled the project. I firstly measured and cut pieces of cardboard to create the box. Next I hot glued all the pieces together. From there I created all the playdoh elements, starting with the rabbit and then the carrots, broccoli and the heart. 
+
+![Image](a1.JPG)
 ## Project outcome ##
 
 
