@@ -24,7 +24,7 @@ Adafruit Capacitive Touch HAT for Raspberry Pi - Mini Kit - MPR121
 
 https://www.youtube.com/watch?v=Wk76UPRAVxI
 
-![Image](missingimage.png)
+![Image](idea2.png)
 
 This project is related to mine because it uses the same piano concept. What is diffrent and interesting about this example is how creative she is with using random and diffrent objects. She also expanded on the number of conductors there were, but how could I apply this with my project only using a micro bit? What elements could i use to make the project more interesting and original?
 
@@ -33,7 +33,7 @@ Sound Art - Focus and Hear the Arts
 
 https://www.widewalls.ch/sound-art/
 
-![Image](missingimage.png)
+![Image](idea3.png)
 
 This project is related to mine because it uses a focus on sound. This project focuses on experiencing sound from all around. This site shows many examples but this example in particular stood out to me because of the placment of the speakers. The speakers are placed around everybody and immurses them in the project. This makes me consider incorperating this method into my project. 
 
@@ -42,7 +42,7 @@ Cuerdos
 
 https://mario-lorenzo.com/fr/cuerdos/
 
-![Image](missingimage.png)
+![Image](idea4.png)
 
 This project is related to mine because it focuses of interacting with sound. This project is a roange of speakers possitioned along wires on a wall. People can interact with the wires by touching them, which then triggers tones to play from the speakers in that area. The use on conductors with this interaction is very interesting, it looks very ingaging. 
 
@@ -51,7 +51,7 @@ An Interactive Sound Wall
 
 https://www.bareconductive.com/news/a-conductive-sound-wall/
 
-![Image](missingimage.png)
+![Image](idea5.png)
 
 This project is related to mine because it focuses of interacting with sound. This project is a wall with speakers painted on all over it. The speakers have touch points at all the buttons and switches painted on. These are then connected to coding that respondes to the button they pressed, playing music, turning the volume up or down etc. This is somthing that I could apply to my project or even use to inspire my main project. 
 
@@ -60,7 +60,7 @@ How To Make Buzzer Game For Kids - Challenge Yourself
 
 https://www.youtube.com/watch?v=ZsoiMZLkK1Y
 
-![Image](missingimage.png)
+![Image](idea6.png)
 
 This project is related to mine because it incorperates a peizo buzzer when interacting with an object. This video show cases a game that triggers a peizo buzzer to make tones and for a LED light to light up. This could be somthing I incorparate into my design instead of using a speaker or headphones. 
 
