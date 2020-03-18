@@ -114,10 +114,28 @@ This project is related to mine because it incorperates a peizo buzzer when inte
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
 
-![Image](missingimage.png)
+For this task I began by replicating the base project. This helped me get a understanding of how it worked and what it did. This just allowed me to get a better understanding of what I need to do to for this assignment. 
 
-*Include screenshots of the code you have used.*
+![Image](x1.png)
+Image of the code for the base project that I recreated.
 
+
+Next Next I began looking at changes and improvements I could make.
+I first began with solving the issue of creating this project without the use of crocodile clips. The original exampled used these to connect all the elements, but I did not have any in my kit and I was also recommended to to use them. So I began playing around with adapting this design to work through the bread board with jump wires. I connected the sound outputs to the 0V and 0. Then the connections to the fruit where on 1 and 2 and then the connection to loop everything together was connected to 0V as well.
+
+![Image](x2.png)
+Image of jump wire connections 
+
+
+The next element I looked at was changing the sound. The original used a headphone jax, but I did not like this idea, as it made to sound output a lot quieter and not as neat and affective. I looked into experimenting with other options. I first looked at using a speaker. I found some extra wire to connect to a jax on the speaker and then to the jump wires. This did not work well, as it was very touchy and did not connect properly. I came to the conclusion that I wouldn’t use this connection, as it would not practical and would fall apart.  
+
+![Image](x3.png)
+Image of wire connecting to speaker jax. 
+
+Instead I choose to look into using a Piezo buzzer. This allowed for the same tone and tune output and is more practical and secure, this element was also simple to attach. Although the buzzer produces sound output differently (creating frequency through voltage) I was still able to produce the same sound outcome as a speaker or headphone jax. 
+
+![Image](x4.png)
+Image of Piezo buzzer being trialed in the project.
 ## Project outcome ##
 
 *Complete the following information.*
