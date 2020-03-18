@@ -170,6 +170,13 @@ Next I wanted to add another element to make the project more engaging and a bit
 Image of led images added to the code.
 ## Project outcome ##
 
+
+From here I began to sketch a new concept as I decided to add and change the project a bit more. I draw up sketches and came up with a final outcome. I decided to change the concept of the piano to a interactive toy. Through the sketching I choose what materials to uses and what the project would look like. I decided to use playdoh and cardboard to construct the project. The Playdoh will work as the conductor, it will also allow me to make the elements and be creative with it. The cardboard is what will be used to cover the bread board and make it look more refined.  
+
+![Image](z2.jpg)
+Image of sketches. 
+
+
 *Complete the following information.*
 
 ### Project title ###
