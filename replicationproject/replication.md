@@ -203,14 +203,14 @@ This project was transformed into a interactive kids toy. In this project if you
 ![Image](f2.JPG)
 
 ### Reflection ###
+Through this project I thought the overall look of the project was very successful, as well as the purpose and function behind the idea of the project. When comparing this outcome to the banana keyboard, this project is a lot more refined and creative, also making this project more interesting and engaging. This is due to the use of the playdoh as a conductor, allowing for more creativity when constructing. The micro bit is also hidden away making the project look a lot neater and more like a toy project. The project also conveys a clear purpose, with all the elements working together to make this project/object more engaging. What could of been improved is the construction and of the box and the structure of the project. Some of the wires were hard to keep attached and in the right location, refining this more would of been ideal. This could of also been improved if I was able to figure out a way to have more options with different outcomes. I dont know if i could change that, but this could of been discovered with more work and understanding in the process and research. 
 
-*Describe the parts of your project you felt were most successful and the parts that could have done with improvement, whether in terms of outcome, process, or understanding.*
+Through this project I found interesting approaches and information that helped influence the outcome of this project. When looked through examples in the previous section, I discovered a few people recreating the banana keyboard with other conductors. This lead me to learn about other things I could use and how broad this can be when looking at this task. 
+
+I key idea that inspired this project was the use of playdoh as a conductor. When looking at the examples mentioned before, I found a article on electronics made with playdoh and how it works. This article was Community Outreach with Play-Doh® Electronics by Tom Bensky and William Bensky. This allowed me to get an understanding of how electricity can be conducted through particular items that have a certain type of water content in them. In This case it was the salty water in playdoh. 
+Reference: 
+  Bensky T,  Bensky W.  2016. Community Outreach with Play-Doh® Electronics. The Physics teacher.  DOI: 10.1119/1.4965261 
 
 
-*What techniques, approaches, skills, or information did you find useful from other sources (such as the related projects you identified earlier)?*
+An interesting extension to this project would be to refine this into a functional, practical toy. This concept of interacting with a toy(selecting an option and the toy giving a reaction) could be applied to many different toy designs and functions. 
 
-
-*What ideas have you read, heard, or seen that informed your thinking on this project? (Provide references.)*
-
-
-*What might be an interesting extension of this project? In what other contexts might this project be used?*
