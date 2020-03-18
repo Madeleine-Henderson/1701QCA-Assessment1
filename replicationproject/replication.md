@@ -116,26 +116,33 @@ This project is related to mine because it incorperates a peizo buzzer when inte
 
 For this task I began by replicating the base project. This helped me get a understanding of how it worked and what it did. This just allowed me to get a better understanding of what I need to do to for this assignment. 
 
-![Image](x1.png)
+![Image](x1.jpg)
 Image of the code for the base project that I recreated.
 
 
 Next Next I began looking at changes and improvements I could make.
 I first began with solving the issue of creating this project without the use of crocodile clips. The original exampled used these to connect all the elements, but I did not have any in my kit and I was also recommended to to use them. So I began playing around with adapting this design to work through the bread board with jump wires. I connected the sound outputs to the 0V and 0. Then the connections to the fruit where on 1 and 2 and then the connection to loop everything together was connected to 0V as well.
 
-![Image](x2.png)
+![Image](x2.jpg)
 Image of jump wire connections 
 
 
 The next element I looked at was changing the sound. The original used a headphone jax, but I did not like this idea, as it made to sound output a lot quieter and not as neat and affective. I looked into experimenting with other options. I first looked at using a speaker. I found some extra wire to connect to a jax on the speaker and then to the jump wires. This did not work well, as it was very touchy and did not connect properly. I came to the conclusion that I wouldn’t use this connection, as it would not practical and would fall apart.  
 
-![Image](x3.png)
+![Image](x3.jpg)
 Image of wire connecting to speaker jax. 
 
 Instead I choose to look into using a Piezo buzzer. This allowed for the same tone and tune output and is more practical and secure, this element was also simple to attach. Although the buzzer produces sound output differently (creating frequency through voltage) I was still able to produce the same sound outcome as a speaker or headphone jax. 
 
-![Image](x4.png)
-Image of Piezo buzzer being trialed in the project.
+![Image](x4.jpg)
+Image of Piezo buzzer hooked up to the project.
+
+To trial the buzzed in connected the fruit to the wires. 
+![Image](x5.jpg)
+Image of Piezo buzzer trialed in project.
+
+
+
 ## Project outcome ##
 
 *Complete the following information.*
