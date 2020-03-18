@@ -1,14 +1,9 @@
 # Assessment 1: Replication project
 
-*Fill out the following workbook with information relevant to your project.*
-
-*Markdown reference:* [https://guides.github.com/features/mastering-markdown/](http://guides.github.com/features/mastering-markdown/)
 
 ## Replication project choice ##
 Banana Keyboard
 
-## Related projects ##
-*Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the* `replicationproject` *folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing, updating the number* `1` *in the subtitle for each.*
 
 ### Related project 1 ###
 How to Make Arduino Piano | Arduino based Piano | Electronic Projects
@@ -65,9 +60,7 @@ https://www.youtube.com/watch?v=ZsoiMZLkK1Y
 This project is related to mine because it incorperates a peizo buzzer when interacting with an object. This video show cases a game that triggers a peizo buzzer to make tones and for a LED light to light up. This could be somthing I incorparate into my design instead of using a speaker or headphones. 
 
 ## Reading reflections ##
-*Reflective reading is an important part of actually making your reading worthwhile. Don't just read the words to understand what they say: read to see how the ideas in the text fit with and potentially change your existing knowledge and maybe even conceptual frameworks. We assume you can basically figure out what the readings mean, but the more important process is to understand how that changes what you think, particularly in the context of your project.*
 
-*For each of the assigned readings, answer the questions below.*
 
 ### Reading: Don Norman, The Design of Everyday Things, Chapter 1 (The Psychopathology of Everyday Things) ###
 
@@ -105,14 +98,9 @@ This project is related to mine because it incorperates a peizo buzzer when inte
 
 ![Image](flow.jpg)
 Image of final project outcome flowchart.
+
+
 ## Process documentation
-
-*In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
-
-*This should have quite a lot of information!*
-
-*There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
-
 
 
 To begin with I did some research and look at some inspiration to help me revamp the banana keyboard project. I reflected on some of the examples above, such as the Adafruit Capacitive Touch HAT for Raspberry Pi - Mini Kit - MPR121 and How To Make Buzzer Game For Kids - Challenge Yourself. These video were useful as that gave me some information on different options for this project. The first video gave me insight to what I can use as a conductor. The second video gave me insight to a different element to use for sound. This video was particularly helpful as I most likely will be using the option of a Piezo buzzer.
@@ -123,9 +111,17 @@ Lastly this source also gave me more insight onto conductors and how they work, 
 
 This sources have helped me realise how broad this can be and the opportunity to get very creative with building this project.
 resouces: 
+
+
 Exploring Electricity: Squishy circuits, lemon batteries, and understanding circuits. 2013. NCMN. https://ncmn.unl.edu/Exploring%20Electricity(2)(1).pdf 
+
+
 Unknown. 2017. “How to make Buzzer Game for kids.” SemiHigh Production.https://www.youtube.com/watch?v=ZsoiMZLkK1Y
+
+
 Limor. 2015. “Adafruit Capacitive Touch HAT for Raspberry Pi - Mini Kit - MPR121.” Adafruit Industries. https://www.youtube.com/watch?v=Wk76UPRAVxI
+
+
 Bensky T,  Bensky W.  2016. Community Outreach with Play-Doh® Electronics. The Physics teacher.  DOI: 10.1119/1.4965261 https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1520&context=phy_fac 
 
 
@@ -198,6 +194,8 @@ From here I then assembled the project. I firstly measured and cut pieces of car
 Lastly I made some changes. From coming up with this concept, I decided to change the images on the micro bit. When the carrot is touched a smile will appear and when the brocoli and touch a sad face will appear. As wll as these changes, I also change the varible nuber that increases/ decreases the sound to 25 and -25.
 
 ![Image](12.png)
+
+
 ## Project outcome ##
 
 ### Project title ###
