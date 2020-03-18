@@ -116,7 +116,7 @@ This project is related to mine because it incorperates a peizo buzzer when inte
 
 For this task I began by replicating the base project. This helped me get a understanding of how it worked and what it did. This just allowed me to get a better understanding of what I need to do to for this assignment. 
 
-![Image](x1.jpg)
+![Image](x1.png)
 Image of the code for the base project that I recreated.
 
 
@@ -127,7 +127,7 @@ I first began with solving the issue of creating this project without the use of
 Image of jump wire connections 
 
 
-The next element I looked at was changing the sound. The original used a headphone jax, but I did not like this idea, as it made to sound output a lot quieter and not as neat and affective. I looked into experimenting with other options. I first looked at using a speaker. I found some extra wire to connect to a jax on the speaker and then to the jump wires. This did not work well, as it was very touchy and did not connect properly. I came to the conclusion that I wouldn’t use this connection, as it would not practical and would fall apart.  
+The next element I looked at was changing the sound. The original used a headphone jax, but I did not like this idea, as it made to sound output a lot quieter and not as neat and affective. I looked into experimenting with other options. I first looked at using a speaker. I found some extra wire to connect to a jax on the speaker and then to the jump wires. This did not work well, as it was very touchy and did not connect properly. I came to the conclusion that I wouldn’t use this connection, as it would not be practical and would fall apart.  
 
 ![Image](x3.jpg)
 Image of wire connecting to speaker jax. 
@@ -142,7 +142,27 @@ To trial the buzzed in connected the fruit to the wires.
 Image of Piezo buzzer trialed in project.
 
 
+ Next I looked at changing the coding. From trailing the buzzer I discovered that the original coding is still functional with the buzzer, so I then went on to adding and changing different elements with in the code. Firstly I began to change the sounds and tones. I played around with what tone to set the code to. I decided to go with middle F. 
 
+![Image](x6.png)
+Image of selecting a tone for the start of the code.
+
+From here I started changing and playing around with different settings on both P1 and P2. With P1 I changed the repeat time down to 2 after playing around with a few different options. I changed the sound increase by 75 and then set the sound back to middle F. 
+
+![Image](x7.png)
+Image of P1 code. 
+
+Next I made changes to P2. I made this pin a bit different to P1 to make to sound output more interesting and engaging. I increased the repeat to 3 times and changed the sound variable by -75 and then set it back to middle F. 
+
+![Image](x8.png)
+Image of P1 and P2 coding.
+![Image](x9.png)
+Image of the entire code at this point in the process. 
+
+Next I wanted to add another element to make the project more engaging and a bit different. To do this I added in ‘Leds’ of musical notes. These notes were added to the code to appear and show a different image depending on what pin is pressed. 
+
+![Image](x10.png)
+Image of led images added to the code.
 ## Project outcome ##
 
 *Complete the following information.*
