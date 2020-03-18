@@ -102,10 +102,9 @@ This project is related to mine because it incorperates a peizo buzzer when inte
 
 
 ## Interaction flowchart ##
-*Draw a flowchart of the interaction process in your project. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
 
-![Image](missingimage.png)
-
+![Image](flow.jpg)
+Image of final project outcome flowchart.
 ## Process documentation
 
 *In this section, include text and images that represent the development of your project including sources you've found (URLs and written references), choices you've made, sketches you've done, iterations completed, materials you've investigated, and code samples. Use the markdown reference for help in formatting the material.*
@@ -113,6 +112,22 @@ This project is related to mine because it incorperates a peizo buzzer when inte
 *This should have quite a lot of information!*
 
 *There will likely by a dozen or so images of the project under construction. The images should help explain why you've made the choices you've made as well as what you have done. Use the code below to include images, and copy it for each image, updating the information for each.*
+
+
+
+To begin with I did some research and look at some inspiration to help me revamp the banana keyboard project. I reflected on some of the examples above, such as the Adafruit Capacitive Touch HAT for Raspberry Pi - Mini Kit - MPR121 and How To Make Buzzer Game For Kids - Challenge Yourself. These video were useful as that gave me some information on different options for this project. The first video gave me insight to what I can use as a conductor. The second video gave me insight to a different element to use for sound. This video was particularly helpful as I most likely will be using the option of a Piezo buzzer.
+
+I also found this article, ‘Community Outreach with Play-Doh® Electronics,’ this gave me a lot of insight into understanding what I can use to conduct the electricity from the conductor to the bread board. This article gave me insight into using playdoh as an option, as the salt water in works very well to conduct electricity. This will make it a very reliable option for this task. 
+
+Lastly this source also gave me more insight onto conductors and how they work, as well as understanding insulators, semi conductors and creating an electrical circuit. This just gave me more basic information to better help my understanding of this project and to help me come up with more ideas. 
+
+This sources have helped me realise how broad this can be and the opportunity to get very creative with building this project.
+resouces: 
+Exploring Electricity: Squishy circuits, lemon batteries, and understanding circuits. 2013. NCMN. https://ncmn.unl.edu/Exploring%20Electricity(2)(1).pdf 
+Unknown. 2017. “How to make Buzzer Game for kids.” SemiHigh Production.https://www.youtube.com/watch?v=ZsoiMZLkK1Y
+Limor. 2015. “Adafruit Capacitive Touch HAT for Raspberry Pi - Mini Kit - MPR121.” Adafruit Industries. https://www.youtube.com/watch?v=Wk76UPRAVxI
+Bensky T,  Bensky W.  2016. Community Outreach with Play-Doh® Electronics. The Physics teacher.  DOI: 10.1119/1.4965261 https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1520&context=phy_fac 
+
 
 For this task I began by replicating the base project. This helped me get a understanding of how it worked and what it did. This just allowed me to get a better understanding of what I need to do to for this assignment. 
 
