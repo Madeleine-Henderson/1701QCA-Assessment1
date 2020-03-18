@@ -15,7 +15,7 @@ How to Make Arduino Piano | Arduino based Piano | Electronic Projects
 
 https://www.youtube.com/watch?v=eKWk9RIGVxg
 
-![Image](idea 1.png)
+![Image](idea1.png)
 
 This project is related to mine because it uses the same piano concept and a similar coding concept. This example is interesting as they were able to create a entire mini piano with alot of the diffrent keys and notes. What is also interesting is how they were able to apply the project and refine it to look and function like an piano. This might be an element to add to the original banana keyboard, instead of using fruit. 
 
