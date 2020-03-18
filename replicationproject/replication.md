@@ -178,7 +178,7 @@ Image of sketches.
 
 From here I then assembled the project. I firstly measured and cut pieces of cardboard to create the box. Next I hot glued all the pieces together. From there I created all the playdoh elements, starting with the rabbit and then the carrots, broccoli and the heart. 
 
-![Image](Doc1.pdf)
+![Image](111.jpg)
 ## Project outcome ##
 
 
