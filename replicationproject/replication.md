@@ -179,6 +179,10 @@ Image of sketches.
 From here I then assembled the project. I firstly measured and cut pieces of cardboard to create the box. Next I hot glued all the pieces together. From there I created all the playdoh elements, starting with the rabbit and then the carrots, broccoli and the heart. 
 
 ![Image](111.jpg)
+
+Lastly I made some changes. From coming up with this concept, I decided to change the images on the micro bit. When the carrot is touched a smile will appear and when the brocoli and touch a sad face will appear. As wll as these changes, I also change the varible nuber that increases/ decreases the sound to 25 and -25.
+
+
 ## Project outcome ##
 
 
