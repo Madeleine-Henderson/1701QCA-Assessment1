@@ -126,6 +126,11 @@ I first began with solving the issue of creating this project without the use of
 ![Image](x2.jpg)
 Image of jump wire connections 
 
+Next I decided to add in another wire to both connectors 1 and 2. This allows for more elements to interact with. 
+
+![Image](zz1.JPG)
+Image of other inputs attached.
+
 
 The next element I looked at was changing the sound. The original used a headphone jax, but I did not like this idea, as it made to sound output a lot quieter and not as neat and affective. I looked into experimenting with other options. I first looked at using a speaker. I found some extra wire to connect to a jax on the speaker and then to the jump wires. This did not work well, as it was very touchy and did not connect properly. I came to the conclusion that I wouldn’t use this connection, as it would not be practical and would fall apart.  
 
