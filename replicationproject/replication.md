@@ -199,7 +199,7 @@ Lastly I made some changes. From coming up with this concept, I decided to chang
 ## Project outcome ##
 
 ### Project title ###
-Banana Keyboard / happy/sad Bunny
+Banana Keyboard / happy sad Rabbit
 
 ### Project description ###
 
